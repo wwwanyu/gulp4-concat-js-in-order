@@ -1,0 +1,1 @@
+console.log("my script should be the last one"),console.log("a should be second"),console.log("z should be 1st");
